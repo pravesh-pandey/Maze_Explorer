@@ -1,6 +1,6 @@
 # Maze-solver-bot
 
-**The bot is fully designed for the event maze explorer in technex-20 IIT BHU.**
+**The bot is fully designed for the event maze explorer in technex-2020 IIT BHU.**
 
 > [To see the problem statement visit here](https://github.com/pravesh-pandey/Maze_Explorer/blob/main/problem%20stetment%20of%20maze%20explorer%20(IIT%20Bhu).pdf)
 
