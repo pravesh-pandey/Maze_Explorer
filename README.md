@@ -1,4 +1,4 @@
-# Maze-solver-bot
+# Maze-solver-bot <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=pravesh-pandey.Maze_Explorer"/>
 
 **The bot is fully designed for the event maze explorer in technex-2020 IIT BHU.**
 
